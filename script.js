@@ -1,7 +1,7 @@
 const users = [
-    { username: "Aybars", password: "AybarsHLK123", balance: "0 HL" },
-    { username: "Kamil", password: "KamilHLK123", balance: "0 HL" },
-    { username: "Hamsi", password: "HamsiHLK123", balance: "0 HL" }
+    { username: "Aybars", password: "AybarsHLK324", balance: "0 HL" },
+    { username: "Kamil", password: "KamilHLK532", balance: "0 HL" },
+    { username: "Hamsi", password: "HamsiHLK742", balance: "0 HL" }
 ];
 
 document.getElementById('loginForm').addEventListener('submit', function(event) {
